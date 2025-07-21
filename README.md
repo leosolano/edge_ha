@@ -78,7 +78,7 @@ The generated template includes:
 
 ## Architecture Diagram
 
-
+![Alt text](images/App_architecture.jpg)
 
 ## Benefits
 
